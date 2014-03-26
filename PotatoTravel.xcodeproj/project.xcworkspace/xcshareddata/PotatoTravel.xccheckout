@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BC83051D-6B18-4799-97DC-523B7869CC1A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PotatoTravel</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5C7B9EAD-0997-4FEF-BA91-B85B0EA3C639</key>
+		<string>https://github.com/M2class/PotatoTravel.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PotatoTravel.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5C7B9EAD-0997-4FEF-BA91-B85B0EA3C639</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/M2class/PotatoTravel.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5C7B9EAD-0997-4FEF-BA91-B85B0EA3C639</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5C7B9EAD-0997-4FEF-BA91-B85B0EA3C639</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PotatoTravel</string>
+		</dict>
+	</array>
+</dict>
+</plist>

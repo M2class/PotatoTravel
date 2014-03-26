@@ -34,6 +34,8 @@
     [self tabBarInit];
     [self.window makeKeyAndVisible];
     return YES;
+    
+    NSLog(@"asdasdasdasd");
 }
 
 - (void)tabBarInit{
